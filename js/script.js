@@ -1,42 +1,42 @@
 var users = [
     {
-        name: 'Lucy',
+        name: 'Angela',
         gender: 'F',
         hobby: 'pets',
         avatar: 'avatar1.png'        
     },
     {
-        name: 'Betty',
+        name: 'Lisa',
         gender: 'F',
-        hobby: 'pets',
+        hobby: 'music',
         avatar: 'avatar2.png'
     },
     {
-        name: 'Ronald',
+        name: 'Victor',
         gender: 'M',
         hobby: 'music',
         avatar: 'avatar3.png'
     },
     {
-        name: 'Christopher',
+        name: 'Emmanuel',
         gender: 'M',
-        hobby: 'sports',
+        hobby: 'photography',
         avatar: 'avatar4.png'
     },
     {
-        name: 'Ximena',
+        name: 'Diana',
         gender: 'F',
-        hobby: 'reading',
+        hobby: 'coding',
         avatar: 'avatar5.png'
     },
     {
-        name: 'Paul',
+        name: 'Daniel',
         gender: 'M',
-        hobby: 'shopping',
+        hobby: 'eatingg',
         avatar: 'avatar6.png'
     },
     {
-        name: 'Charlie',
+        name: 'Robertson',
         gender: 'M',
         hobby: 'pets',
         avatar: 'avatar7.png'
@@ -57,6 +57,10 @@ window.addEventListener('load', function() {
         var genderField = document.getElementById('gender');
         var s = genderField.selectedIndex;
         var gender = genderField.options[s].value;
+
+        var ageField = document.getElementById('age');
+        // var 
+
         
         var resultsHtml = '';
         var usersLength = users.length;
