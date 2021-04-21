@@ -2,56 +2,56 @@ var users = [{
         name: 'Angela',
         gender: 'F',
         hobby: 'pets',
-        avatar: 'avatar1.png',
+        avatar: '11.jpg',
         age: 21
     },
     {
         name: 'Lisa',
         gender: 'F',
         hobby: 'music',
-        avatar: 'avatar2.png',
+        avatar: '12.jpg',
         age: 25
     },
     {
         name: 'Victor',
         gender: 'M',
         hobby: 'music',
-        avatar: 'avatar3.png',
+        avatar: '2.jpg',
         age: 24
     },
     {
         name: 'Emmanuel',
         gender: 'M',
         hobby: 'photography',
-        avatar: 'avatar4.png',
+        avatar: '3.jpg',
         age: 26
     },
     {
         name: 'Diana',
         gender: 'F',
         hobby: 'coding',
-        avatar: 'avatar5.png',
+        avatar: '13.jpg',
         age: 25
     },
     {
         name: 'Daniel',
         gender: 'M',
         hobby: 'eatingg',
-        avatar: 'avatar6.png',
+        avatar: '4.jpg',
         age: 28
     },
     {
         name: 'Robertson',
         gender: 'M',
         hobby: 'pets',
-        avatar: 'avatar7.png',
+        avatar: '5.jpg',
         age: 26
     },
     {
         name: 'Elliot',
         gender: 'M',
         hobby: 'music',
-        avatar: 'avatar7.png',
+        avatar: '9.jpg',
         age: 31
     },
 ];
